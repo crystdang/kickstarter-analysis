@@ -1,6 +1,6 @@
 # **Kickstarting with Excel - Analysis by Crystina Dang**
 
--Note: Excel file is uploaded without compressing as per TA during office hours Wed Aug 31st.-
+*Note: Excel file is uploaded without compressing as per TA during office hours Wed Aug 31st.*
 
 ## **Overview of Project**
 

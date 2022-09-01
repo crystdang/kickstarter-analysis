@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-  May is the most successful month month to launch a campaign.
+  According to the data, May is the most successful month to launch a campaign. December has a considerably lower total of launches with successful and failed campaign averaging about the same amount, which in comparison to the rest of the year, proves it is a very unsuccessful time to launch. In conclusion, the data is skewed slightly right.
 
 ### Analysis of Outcomes Based on Goals
 

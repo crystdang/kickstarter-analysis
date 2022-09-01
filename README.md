@@ -5,7 +5,7 @@
 ## **Overview of Project**
 
 ### Purpose
-The purpose of this analysis is to prove and inform how Excel's versatile tools are used to easily organize and visualize data using spreadsheets and charts.
+  The purpose of this analysis is to prove and inform how Excel's versatile tools are used to easily organize and visualize data using formulas and various charts. By considering which cross references would best represent the information needed, the data can be distilled into a digestable form to meet conclusions made.
 
 ## Analysis and Challenges
 

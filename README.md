@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+  May is the most successful month month to launch a campaign.
 
 ### Analysis of Outcomes Based on Goals
 
